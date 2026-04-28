@@ -61,4 +61,3 @@ dependencies:
       - typing-extensions==4.15.0
       - tzdata==2026.2
       - wcwidth==0.6.0
-prefix: D:\Belgelerim\projects\conda_envs\IBM_mini_projects
