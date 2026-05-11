@@ -5,3 +5,5 @@ Data files that have been utilized in these notebooks / mini projects have not b
 [stock_data_visualisation](stock_data_visualisation.ipynb) - pandas, beautifulsoup, requests, yfinance
 
 [sql](sql.ipynb) - DDL, DML, query, subquery, implicit join
+
+[coffee project part1](Coffee_Project_Part1.ipynb) - pandas, matplotlib
