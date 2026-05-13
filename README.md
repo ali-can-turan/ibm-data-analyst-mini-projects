@@ -8,6 +8,6 @@ Data files that have been utilized in these notebooks / mini projects have not b
 
 [coffee project part1](Coffee_Project_Part1.ipynb) - pandas, matplotlib, numpy
 
-[coffee project part2](Coffee_Project_Part2.ipynb) - pandas, matplotlib, numpy
+[coffee project part2](coffee_project_part2.ipynb) - pandas, matplotlib, numpy
 
 [advanced customization in matplotlib](matplotlib_advanced_customization.ipynb) - pandas, matplotlib, numpy
