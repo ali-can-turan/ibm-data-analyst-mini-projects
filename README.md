@@ -11,3 +11,5 @@ Data files that have been utilized in these notebooks / mini projects have not b
 [coffee project part2](coffee_project_part2.ipynb) - pandas, matplotlib, numpy
 
 [advanced customization in matplotlib](matplotlib_advanced_customization.ipynb) - pandas, matplotlib, numpy
+
+[visualisation in seaborn](seaborn_visualisation.ipynb) - seaborn, pandas, matplotlib, numpy
